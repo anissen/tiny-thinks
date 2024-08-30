@@ -5,4 +5,4 @@
 Here's some info.
 
 Rules:
-[[tinyThinks/Physical Games/Dungeon Descend/Setup\|Dungeon Descend/Setup]]
+[[tinyThinks/Physical Games/Dungeon Descend/Setup\|Physical Games/Dungeon Descend/Setup]]
