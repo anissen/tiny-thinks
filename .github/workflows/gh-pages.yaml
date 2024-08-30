@@ -7,10 +7,10 @@ on:
     branches: [ "main" ]
 
 jobs:
-  # Build job
   build:
-    # At a minimum this job should upload artifacts using actions/upload-pages-artifact
-    
+    permissions:
+      contents: write
+  
     runs-on: ubuntu-22.04
 
     strategy:
