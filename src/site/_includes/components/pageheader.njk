@@ -18,17 +18,17 @@
 <link href="{{ '/styles/digital-garden-base.css' | url }}" rel="stylesheet">
 {%-if meta.themeStyle%}
     <link href="{{ '/styles/obsidian-base.css' | url }}" rel="stylesheet">
-    <link href="{{meta.themeStyle}}" rel="stylesheet">
+    <link href="{{ meta.themeStyle | url }}" rel="stylesheet">
 {% else %}
     <link href="{{ '/styles/style.css' | url }}" rel="stylesheet">
 {%endif%}
 
 <link href="{{ '/styles/custom-style.css' | url }}" rel="stylesheet">
 {%- for style in dynamics.styles -%}
-<link href="{{style}}" rel="stylesheet">
+<link href="{{ style | url }}" rel="stylesheet">
 {%- endfor -%}
 
-{% favicons './src/site/favicon.svg', appleIconBgColor='#123' %}
+{% favicons './src/site/favicon.svg' | url, appleIconBgColor='#123' %}
 
 {% if metatags %}
     {% for name, content in metatags %}
