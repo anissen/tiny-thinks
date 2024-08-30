@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tiny-thinks/physical-games/dungeon-descend/setup/"}
+{"dg-publish":true,"dg-path":"Physical Games/Dungeon Descend/Setup.md","permalink":"/physical-games/dungeon-descend/setup/"}
 ---
 
 The like is setup like so:

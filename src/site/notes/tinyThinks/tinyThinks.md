@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tiny-thinks/tiny-thinks/"}
+{"dg-publish":true,"dg-path":"tinyThinks.md","permalink":"/tiny-thinks/"}
 ---
 
 ## Physical games
