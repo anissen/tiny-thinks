@@ -529,8 +529,6 @@ module.exports = function (eleventyConfig) {
     ul: true,
     tags: ["h1", "h2", "h3", "h4", "h5", "h6"],
   });
-  eleventyConfig.addPlugin(EleventyHtmlBasePlugin);  
-
 
   eleventyConfig.addFilter("dateToZulu", function (date) {
     try {
