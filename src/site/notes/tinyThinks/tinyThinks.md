@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tiny-thinks/tiny-thinks/"}
+{"dg-publish":true,"permalink":"/tiny-thinks/tiny-thinks/","tags":["gardenEntry"]}
 ---
 
 ## Physical games
