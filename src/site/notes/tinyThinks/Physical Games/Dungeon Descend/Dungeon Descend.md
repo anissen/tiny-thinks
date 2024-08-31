@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Physical Games/Dungeon Descend/Dungeon Descend.md","permalink":"/physical-games/dungeon-descend/dungeon-descend/"}
+{"dg-publish":true,"permalink":"/tiny-thinks/physical-games/dungeon-descend/dungeon-descend/"}
 ---
 
 Here's some info.
