@@ -3,11 +3,35 @@ body {
       ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
    ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+    .callout[data-callout^="figure"] {
+    	padding: .5em;
+    	margin: .5em;
+    
+    	& .callout-icon {
+    		display: none;
+    	}
+    
+    	& .callout-title {
+    		padding: 0;
+    		margin: 0;
+    	}
+    
+    	& .callout-content {
+    		--callout-content-background: rgba(0, 0, 0, 0);
+    		padding: 0;
+    		margin: 0;
+    		border: none;
+    		box-shadow: none;
+    	}
+    }
+    
+    .callout[data-callout^="figure-right"] {
+    	float: right;
+    	width: 50%;
+    }
+    
+    .callout[data-callout^="figure-left"] {
+    	float: left;
+    	width: 50%;
+    }
 }
