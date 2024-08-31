@@ -4,6 +4,8 @@
 
 Here's *some* **info**!
 
+Voluptate et repudiandae nulla laudantium quia et et vitae voluptas aliquam ab. Asperiores aliquid nisi non quidem autem quis iure autem commodi esse sit voluptates libero nostrum autem. > [!figure] ![castle.jpg](/img/user/castle.jpg) > *Figure 7*: Occaecati rerum error quis assumenda **perferendis** sequi eos in id. Debitis voluptatem accusantium dolorem cum voluptatem voluptate. Hic maiores earum eligendi eveniet sed veniam molestias perferendis animi doloribus amet qui earum. > [!figure-right] ![castle.jpg](/img/user/castle.jpg) > *Figure 8*: Occaecati rerum error quis assumenda **perferendis** sequi eos in id. Sequi quidem rem dolor rerum repellendus libero neque iure sequi et. Debitis est eius nobis nobis eum facere. Nesciunt commodi aut aliquam quidem repellendus asperiores sapiente molestias dolores dignissimos eos libero iusto. Aut quo nisi est voluptas dolorem dolor sint ut iure. Voluptas temporibus commodi culpa dolorem possimus incidunt. Voluptas sed sint delectus voluptates et libero eos sed ducimus laborum id est qui quidem. Qui dolorum veritatis doloribus aliquam autem cum ipsam. Aut eum et quidem autem ea accusamus et repellendus tempora. Assumenda rem minus commodi nostrum et exercitationem facilis voluptas modi debitis ratione sed. > [!figure-left] ![castle.jpg](/img/user/castle.jpg)> *Figure 9*: Occaecati rerum error quis assumenda **perferendis** sequi eos in id. Incidunt voluptas ut architecto aut dolorem dolorem ipsum quisquam nemo laudantium id est molestias laboriosam. Temporibus commodi quam repellat doloremque est est reiciendis in quibusdam non unde.
+
 There is a footnote here [^1]
 
 > [!WARNING] Warning: This game is hard!
