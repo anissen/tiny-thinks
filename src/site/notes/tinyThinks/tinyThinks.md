@@ -3,6 +3,6 @@
 ---
 
 ## Physical games
-- [[tinyThinks/Physical Games/Dungeon Descend/Dungeon Descend\|Dungeon Descend]]
+- [[tinyThinks/Physical Games/Desparate Descend/Desparate Descend\|Desparate Descend]]
 - Others ...
 - Even more others ...
