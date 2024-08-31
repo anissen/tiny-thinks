@@ -3,15 +3,15 @@
     <title>tinyThinks</title>
     <link href="http://andersnissen.com/feed.xml" rel="self" >
     <link href="http://andersnissen.com" >
-    <updated>2024-08-30T20:52:55Z</updated>
+    <updated>2024-08-31T05:44:06Z</updated>
     <id>http://andersnissen.com</id>
         <entry>
             <title>
                 tinyThinks
                 
             </title>
-            <updated>2024-08-30T20:52:47Z</updated>
-            <id>http://andersnissen.com/tiny-thinks/tiny-thinks/</id>
+            <updated>2024-08-31T05:43:59Z</updated>
+            <id>http://andersnissen.com/tiny-thinks/</id>
             <content type="html">
                 &lt;h2 id=&quot;physical-games&quot; tabindex=&quot;-1&quot;&gt;Physical games&lt;/h2&gt;
 &lt;ul&gt;
@@ -21,15 +21,15 @@
 &lt;/ul&gt;
 
             </content>
-            <link href="http://andersnissen.com/tiny-thinks/tiny-thinks/" >
+            <link href="http://andersnissen.com/tiny-thinks/" >
         </entry>
         <entry>
             <title>
                 Setup
                 
             </title>
-            <updated>2024-08-30T20:52:47Z</updated>
-            <id>http://andersnissen.com/tiny-thinks/physical-games/dungeon-descend/setup/</id>
+            <updated>2024-08-31T05:43:59Z</updated>
+            <id>http://andersnissen.com/physical-games/dungeon-descend/setup/</id>
             <content type="html">
                 &lt;p&gt;The like is setup like so:&lt;/p&gt;
 &lt;ul&gt;
@@ -38,21 +38,21 @@
 &lt;/ul&gt;
 
             </content>
-            <link href="http://andersnissen.com/tiny-thinks/physical-games/dungeon-descend/setup/" >
+            <link href="http://andersnissen.com/physical-games/dungeon-descend/setup/" >
         </entry>
         <entry>
             <title>
                 Dungeon Descend
                 
             </title>
-            <updated>2024-08-30T20:52:47Z</updated>
-            <id>http://andersnissen.com/tiny-thinks/physical-games/dungeon-descend/dungeon-descend/</id>
+            <updated>2024-08-31T05:43:59Z</updated>
+            <id>http://andersnissen.com/physical-games/dungeon-descend/dungeon-descend/</id>
             <content type="html">
                 &lt;p&gt;Here&#39;s some info.&lt;/p&gt;
 &lt;p&gt;Rules:&lt;br /&gt;
 &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;http://andersnissen.com/physical-games/dungeon-descend/setup/&quot;&gt;Physical Games/Dungeon Descend/Setup&lt;/a&gt;&lt;/p&gt;
 
             </content>
-            <link href="http://andersnissen.com/tiny-thinks/physical-games/dungeon-descend/dungeon-descend/" >
+            <link href="http://andersnissen.com/physical-games/dungeon-descend/dungeon-descend/" >
         </entry>
 </feed>
