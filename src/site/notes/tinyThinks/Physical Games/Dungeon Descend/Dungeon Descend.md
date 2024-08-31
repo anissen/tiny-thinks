@@ -2,16 +2,12 @@
 {"dg-publish":true,"permalink":"/tiny-thinks/physical-games/dungeon-descend/dungeon-descend/"}
 ---
 
-Here's some info
+Here's *some* **info**!
 
-```markdown
 There is a footnote here [^1]
-```
 
-```
 > [!WARNING] A warning
 > This game is hard and unforgiving.
-```
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/tiny-thinks/physical-games/dungeon-descend/setup/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -24,10 +20,8 @@ There is a footnote here [^1]
 
 
 
-```
 > [!NOTE] Note title
 > Information
-```
 
 The like is setup like so:
 - First
@@ -41,5 +35,6 @@ The like is setup like so:
 - ...
 
 
-
 ![castle.jpg](/img/user/castle.jpg)
+
+[^1]: Here's some more info
