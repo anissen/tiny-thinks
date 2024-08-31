@@ -5,8 +5,9 @@
 Here's *some* **info**!
 
 Voluptate et repudiandae nulla laudantium quia et et vitae voluptas aliquam ab. Asperiores aliquid nisi non quidem autem quis iure autem commodi esse sit voluptates libero nostrum autem. 
+![guarddog-transparant.png](/img/user/guarddog-transparant.png)Voluptate et repudiandae nulla laudantium quia et et vitae voluptas aliquam ab. Asperiores aliquid nisi non quidem autem quis iure autem commodi esse sit voluptates libero nostrum autem. 
 
-> [!figure] ![castle.jpg|200](/img/user/castle.jpg)
+> [!figure] ![castle.jpg|50%](/img/user/castle.jpg)
 > *Figure 7*: Occaecati rerum error quis assumenda **perferendis** sequi eos in id. Debitis voluptatem accusantium dolorem cum voluptatem voluptate. Hic maiores earum eligendi eveniet sed veniam molestias perferendis animi doloribus amet qui earum. 
 
 > [!figure-right] ![castle.jpg|200](/img/user/castle.jpg)
