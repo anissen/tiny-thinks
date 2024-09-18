@@ -1,14 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/tiny-thinks/physical-games/desperate-descend/desperate-descend/"}
+{"dg-publish":true,"permalink":"/tiny-thinks/physical-games/desperate-descend/desperate-descend/","tags":["physical-game"]}
 ---
 
 
-> Cultists had moved into the old mansion. When *she* was kidnapped you had to take action. You kick in the door and enter in a delirious rush of desperation.
+> *Cultists had moved into the old mansion.* 
+> 
+> *When **she** was kidnapped you had to take action.* 
+> 
+> *You kick in the door and enter in a delirious rush of desperation.*
 
 ![guarddog-transparant.png](/img/user/guarddog-transparant.png)
 
 # Introduction
-**Desperate Descend** is a single player card game with 18 cards. You must proceed down through an old mansion filled with cultists and traps to kill the summoned horror at the third cellar level.
+**Desperate Descend** is a single player card game played with 18 cards. You must proceed down through an old mansion filled with cultists and traps to kill the summoned horror at the third cellar level.
 
 The cards represent your health, inventory, enemies and events as well as determining your luck.
 
@@ -17,16 +21,53 @@ The cards represent your health, inventory, enemies and events as well as determ
 > [!INFO] (here should be a graphics showing how the layout of cards on the table).
 
 ## Choose your difficulty
-<!-- > [!WARNING] **Desperate Descend** is not an easy game and most runs will end in failure. -->
+<!-- > [!WARNING] **Desperate Descend** is not an easy game and most runs will end in failure.  -->
 
 Find the double-sided card and choose your difficulty: **Desperate Descend** (hard) or **Dire Descend** (very hard).
 
 Place the chosen side face-up on the table.
 
 ## Health and inventory
-Shuffle the remaining 17 single-sided cards and draw **health** and **loot** cards according to the chosen difficulty. 
+Shuffle the remaining 17 single-sided cards and draw <abbr title="Represented by face-down cards">**health**</abbr> and **loot** cards according to the chosen difficulty. 
 
 Place the remaining cards in the middle of the table.
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/tiny-thinks/physical-games/desperate-descend/how-to-play/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Hello
+
+asdf
+
+# Another
+
+xxxzzz
+
+</div></div>
+
+
+This is some text that is  ==highlighted==. Woa.
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/tiny-thinks/physical-games/desperate-descend/how-to-play/#hello" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+# Hello
+
+asdf
+
+
+</div></div>
+
+
+#### Data view test
+
+
 
 # How to play
 Voluptate et repudiandae nulla laudantium quia et et vitae voluptas aliquam ab. Asperiores aliquid nisi non quidem autem quis iure autem commodi esse sit voluptates libero nostrum autem. 

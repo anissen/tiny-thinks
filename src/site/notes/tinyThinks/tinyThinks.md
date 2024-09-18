@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/tiny-thinks/tiny-thinks/","tags":["gardenEntry"]}
 ---
 
-## Physical games
+# Physical games
 - [[tinyThinks/Physical Games/Desperate Descend/Desperate Descend\|Desperate Descend]]
-- Others ...
-- Even more others ...
+- [[tinyThinks/Physical Games/Shotgun Roulette/Shotgun Roulette\|Shotgun Roulette]]
+
+{ .block-language-dataview}
