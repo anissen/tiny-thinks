@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tiny-thinks/18-cards/probabilistic-pistol-play/probabilistic-pistol-play/","tags":["18-cards","2-players","3-players","4-players"]}
+{"dg-publish":true,"permalink":"/tiny-thinks/18-cards/probabilistic-pistol-play/probabilistic-pistol-play/","tags":["18-cards","2-players","3-players","4-players","competitive"]}
 ---
 
 
