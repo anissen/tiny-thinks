@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tiny-thinks/physical-games/desperate-descend/desperate-descend/","tags":["physical-game"]}
+{"dg-publish":true,"permalink":"/tiny-thinks/physical-games/desperate-descend/desperate-descend/","tags":["18-cards","single-player"]}
 ---
 
 
