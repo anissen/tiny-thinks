@@ -11,7 +11,7 @@
 
 ![guarddog-transparant.png|400](/img/user/guarddog-transparant.png)
 # Introduction
-**Desperate Descend** is a single player card game played with 18 cards. You must proceed down through an old mansion filled with cultists and traps to kill the summoned horror at the third cellar level.
+**Desperate Descend** is a single player card game played with 18 cards. You must fight your way through a mansion filled with cultists and traps to kill the monster lurking in the basement.
 
 The cards represent your health, inventory, enemies and events as well as determining your luck.
 
