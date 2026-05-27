@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tiny-thinks/tiny-thinks/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/tiny-thinks/tiny-thinks/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 # 18 card games
@@ -51,6 +51,7 @@ A competitive multiplayer party game.
 ---
 
 - [[tinyThinks/18 cards/Desperate Descend/Desperate Descend\|Desperate Descend]]
+- [[tinyThinks/18 cards/Flip Four/Flip Four\|Flip Four]]
 - [[tinyThinks/18 cards/Probabilistic Pistol Play/Probabilistic Pistol Play\|Probabilistic Pistol Play]]
 - [[tinyThinks/18 cards/Sheep Flux/Sheep Flux\|Sheep Flux]]
 
